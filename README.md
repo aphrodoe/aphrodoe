@@ -2,7 +2,6 @@
 
 I am mostly a wannabe guy rather than an actual developer.
 However, I sometimes design web pages <br>
-also an otaku
 
 
 <!---
