@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Dj-257
+👋 Hi, I’m @Dj-257
 
-I am mostly a wannabe guy rather than an actual developer.
-However, I sometimes design web pages.
-
-- otaku
+I am mostly a wannabe guy rather than an actual developer. <br>
+However, I sometimes design web pages. <br>
+Also an Otaku
 
 
 <!---
