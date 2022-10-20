@@ -1,7 +1,6 @@
 👋 Hi, I’m @Dj-257
 
-I am mostly a wannabe guy rather than an actual developer.
-However, I sometimes design web pages <br>
+nothing to see here, creep
 
 
 <!---
