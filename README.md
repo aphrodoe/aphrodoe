@@ -1,6 +1,6 @@
 👋 Hi, I’m @Dj-257
 
-nothing to see here, creep
+nothing to see here
 
 
 <!---
