@@ -8,14 +8,16 @@ export const AboutSection = () => {
       ">
         <h2 className="text-3xl font-bold text-white mb-6">About Me</h2>
         <div className="space-y-4 text-lg text-white/70 leading-relaxed">
-          <p>
-            I'm a passionate developer based in India, specializing in building exceptional digital experiences. 
-            Currently, I'm focused on accessible, human-centered products at IIT Jodhpur.
+          <p className="text-white/70 leading-relaxed max-w-3xl mx-auto">
+            I’m Akhil Dhyani, a Computer Science undergraduate at IIT Jodhpur with a strong
+            foundation in systems, backend engineering, and applied machine learning.
+            I enjoy building high-performance, production-grade systems, from distributed
+            systems and real-time pipelines to agentic applications.
           </p>
-          <p>
-            With a strong foundation in Computer Science and a keen eye for design, 
-            I bridge the gap between technical complexity and user experience. 
-            When I'm not coding, you can find me exploring new tech stacks or gaming.
+
+          <p className="text-white/60 leading-relaxed max-w-3xl mx-auto mt-4">
+            My interests lie at the intersection of systems, AI, and scalable software design.
+            I value clean abstractions, measurable performance, and learning by building.
           </p>
         </div>
       </div>

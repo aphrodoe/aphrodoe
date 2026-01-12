@@ -10,7 +10,6 @@ function App() {
   return (
     <div className="relative w-full h-screen bg-black font-sans selection:bg-purple-500/30">
       
-      {/* BACKGROUND LAYER - Fixed */}
       <div className="fixed inset-0 z-0 pointer-events-none">
         <GridScan
           sensitivity={0.55}
@@ -27,11 +26,8 @@ function App() {
         />
       </div>
 
-      {/* CONTENT LAYER - Scrollable */}
-      {/* overflow-y-auto allows this specific div to scroll while background stays put */}
       <div className="relative z-10 w-full h-full overflow-y-auto overflow-x-hidden scroll-smooth">
         
-        {/* Navigation Wrapper - Sticky */}
         <div className="sticky top-6 z-50 flex justify-center w-full mb-10 pointer-events-none">
           <GlassNavbar />
         </div>

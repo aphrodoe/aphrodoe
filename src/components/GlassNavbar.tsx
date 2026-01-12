@@ -35,18 +35,14 @@ export const GlassNavbar = () => {
         ${isHovering ? 'bg-black/30 scale-[1.01] border-white/20' : ''}
       `}
     >
-      {/* Logo */}
       <div 
         onClick={() => scrollToSection('home')}
         className="flex items-center gap-3 text-white cursor-pointer group"
       >
-        <div className="w-10 h-10 rounded-lg bg-gradient-to-tr from-purple-500 to-pink-500 flex items-center justify-center group-hover:rotate-3 transition-transform">
-          <span className="font-bold text-lg">A</span>
-        </div>
-        <span className="font-semibold text-lg tracking-wide hidden sm:block">Akhil.dev</span>
+        <span className="font-semibold text-lg tracking-wide">Akhil Dhyani</span>
+
       </div>
 
-      {/* Nav Links */}
       <div className="flex items-center gap-8 text-sm font-medium text-white/70">
         {navItems.map((item) => (
           <button
