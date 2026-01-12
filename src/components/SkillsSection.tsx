@@ -71,7 +71,8 @@ const techLogos = [
 
 export const SkillsSection = () => {
   return (
-    <div id="skills" className="w-full py-24 pointer-events-auto">
+    <div className="w-full pointer-events-auto">
+
       <div className="text-center mb-12">
         <h2 className="text-4xl font-bold text-white">Tech Stack</h2>
       </div>

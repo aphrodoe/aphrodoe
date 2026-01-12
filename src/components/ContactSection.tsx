@@ -1,6 +1,7 @@
 export const ContactSection = () => {
   return (
-    <footer id="contact" className="w-full pointer-events-auto py-24">
+  <footer className="w-full pointer-events-auto">
+
       <div className="max-w-4xl mx-auto text-center px-4">
         <h2 className="text-4xl font-bold text-white mb-6">
           Let’s build something meaningful
@@ -11,7 +12,6 @@ export const ContactSection = () => {
           research, and collaborative software projects.
         </p>
 
-        {/* Primary Contact Actions */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-20">
           <a
             href="mailto:akhildhyani250@gmail.com"
@@ -22,7 +22,6 @@ export const ContactSection = () => {
 
         </div>
 
-        {/* Footer */}
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-white/40">
           <p>© 2026 Akhil Dhyani</p>
           <div className="flex gap-6">

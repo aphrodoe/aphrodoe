@@ -45,13 +45,15 @@ function App() {
             <ProjectsSection />
           </section>
 
-          <section id="skills" className="w-full py-20">
+          <section id="skills" className="w-full pt-20 pb-5">
             <SkillsSection />
           </section>
 
-          <section id="contact" className="w-full pt-20 pb-10">
+
+          <section id="contact" className="w-full pt-5 pb-20">
             <ContactSection />
           </section>
+
         </div>
 
       </div>
