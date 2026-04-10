@@ -9,7 +9,7 @@
 ### 💫 About Me:
 I am a second year **Computer Science and Engineering** student at **IIT Jodhpur**.
 
-- 🔭 **Current focus:** Exploration blockchain technologies and homelabbing.
+- 🔭 **Current focus:** Exploring blockchain technologies and homelabbing.
 - 🥇 **Recent Win:** Secured a **Gold Medal** at the Inter IIT Tech Meet 14.0 for a production-grade financial fraud detection solution.
 - 💬 **Ask me about:** Distributed Query Latency, high-performance canvas engines, or building MCP servers.
 - ⚡ **Fun Fact:** I achieved state rank 3 in my Grade 12 exams.
