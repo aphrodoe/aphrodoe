@@ -7,7 +7,7 @@
 ---
 
 ### 💫 About Me:
-I am a second year **Computer Science and Engineering** student at **IIT Jodhpur**.
+I am a third year **Computer Science and Engineering** student at **IIT Jodhpur**.
 
 - 🔭 **Current focus:** Exploring blockchain technologies and homelabbing.
 - 🥇 **Recent Win:** Secured a **Gold Medal** at the Inter IIT Tech Meet 14.0 for a production-grade financial fraud detection solution.
